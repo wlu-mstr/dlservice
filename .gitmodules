@@ -1,3 +1,12 @@
 [submodule "crow"]
 	path = crow
 	url = https://github.com/ipkn/crow.git
+[submodule "darknet"]
+	path = darknet
+	url = https://github.com/AlexeyAB/darknet.git
+[submodule "darknet-export"]
+	path = darknet-export
+	url = https://git.hipert.unimore.it/fgatti/darknet.git
+[submodule "tkDNN"]
+	path = tkDNN
+	url = https://github.com/ceccocats/tkDNN.git
